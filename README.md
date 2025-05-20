@@ -1,2 +1,2 @@
 # PythonProgram
-about problem solving
+Basic Problem Solving
